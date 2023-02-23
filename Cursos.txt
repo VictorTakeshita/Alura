@@ -1,6 +1,6 @@
 Cursos
 
-PHP
+php
 C#
 PYTHON
 C++
