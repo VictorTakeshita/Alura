@@ -14,10 +14,9 @@ NOSQL
 DATASCIENCE
 DEVOPS
 BOTSTRAP
+ 
 
-
-
-Alunos sdsasda
+Alunos 
 Marcia
 Carlos
 Victor
