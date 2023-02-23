@@ -4,3 +4,9 @@ PHP
 C#
 PYTHON
 C++
+Cobol
+Java
+Javascript
+HTML
+CSS
+SQL
