@@ -34,3 +34,11 @@ Big Data
 Segurança de dados
 Analista
 Suporte
+
+Lista de aplicativos
+
+Visual studio code
+Vicual studio
+Workbench MySQL
+GIT Bash
+
