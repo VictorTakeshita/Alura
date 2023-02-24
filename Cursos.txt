@@ -25,3 +25,10 @@ Matheus
 Joao
 Maria
 Julia
+
+Lista de aplicativos
+
+Visual studio code
+Vicual studio
+Workbench MySQL
+GIT Bash
