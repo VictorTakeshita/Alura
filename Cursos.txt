@@ -35,7 +35,7 @@ Segurança de dados
 Analista
 Suporte
 
-Lista de aplicativos
+Lista de aplicações
 
 Visual studio code
 Vicual studio
