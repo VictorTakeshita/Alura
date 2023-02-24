@@ -1,5 +1,5 @@
 
-Cursos da alura
+Cursos da alura DevOps
 php Server
 C#
 PYTHON
