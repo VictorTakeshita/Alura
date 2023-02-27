@@ -1,21 +1,19 @@
 
-Cursos da alura
 
-php Server
-C#
-PYTHON
-C++
-Cobol
-Javar alterando java
-Javascript
-HTML alterando html
-CSS
-SQL
-NOSQL
-DATASCIENCE
-DEVOPS
-BOTSTRAP
- 
+php 8hs
+C# 9hs
+PYTHON 15hs
+C++ 78hs
+Cobol 21hs 
+Javar alterando java 74hs 
+Javascript 25hs
+HTML alterando html 58hs
+CSS 45hs
+SQL 78hs
+NOSQL 98hs
+DATASCIENCE 74hs
+DEVOPS 85hs
+BOTSTRAP 74hs
 
 Alunos 
 Marcia
