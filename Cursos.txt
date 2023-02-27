@@ -1,4 +1,4 @@
-Cursos
+
 
 php 8hs
 C# 9hs
@@ -14,7 +14,6 @@ NOSQL 98hs
 DATASCIENCE 74hs
 DEVOPS 85hs
 BOTSTRAP 74hs
- 
 
 Alunos 
 Marcia
@@ -24,3 +23,20 @@ Matheus
 Joao
 Maria
 Julia
+
+
+Areas Tecnologicas 
+
+Desenvolvedor
+Big Data
+Segurança de dados
+Analista
+Suporte
+
+Lista de aplicações
+
+Visual studio code
+Vicual studio
+Workbench MySQL
+GIT Bash
+
