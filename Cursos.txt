@@ -40,3 +40,6 @@ Vicual studio
 Workbench MySQL
 GIT Bash
 
+
+
+Nova Atualização
